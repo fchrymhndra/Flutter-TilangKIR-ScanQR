@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220118186471",
+    "project_id": "tilang-kir-8b386",
+    "storage_bucket": "tilang-kir-8b386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220118186471:android:5c2338c5a8ec13db776542",
+        "android_client_info": {
+          "package_name": "com.example.tilangkir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiFvhWUG6Hr6jMZSJCr3KUeNhJeq2EIOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
